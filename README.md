@@ -26,4 +26,5 @@ SO THAT I can create a strong password that provides greater security
 
 
 ## Live Appliction Image
-    ![Password Generator](/images/password-generator.png)
+
+![](images/password-generator.png)
