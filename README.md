@@ -16,6 +16,9 @@ I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 ```
 
+## Solution
+I used power of javascript to implement the desired application logic. So when the user clicks the generate password button they will first be prompted the enter there desired password length which has to  be 8 to 128 characters. There is input valdation to make sure the length is correct. After the user chooses ther password length then they will recive a series of question that are specificto the diffrent character types they can have in there password. They can choose from Upper case, lower case, special, and number characters.
+
 
 
 
@@ -28,3 +31,8 @@ SO THAT I can create a strong password that provides greater security
 ## Live Appliction Image
 
 ![](images/password-generator.png)
+
+
+
+## Sources 
+https://www.w3schools.com/ & https://developer.mozilla.org/
